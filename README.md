@@ -3,8 +3,6 @@
 
 <img src="https://media.licdn.com/dms/image/D4D16AQFruxbLjdQHmw/profile-displaybackgroundimage-shrink_350_1400/0/1667678634976?e=1678320000&v=beta&t=e9qJygaI35vq_Q3OzNMl4LLeOnevnm4KEMMe0KrzuMM" alt="My game">
 
-- 🔭 I’m currently working on Deep Learning Project for my degree expertise **MBTI**
-
 - 🌱 I’m currently learning Deep Learning **Numpy, Tenserflow (Keras), Pandas ,sickit-learn**
 
 <h3 align="left">Connect with me:</h3>
