@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bar Kozlovski</h1>
-<h3 align="center">Computer science student with expertise in Deep Learning (python). Also Developing games on Unity (c#)</h3>
+<h3 align="center">Computer science student with expertise in Deep Learning (python). Also Developing games with Unity (c#)</h3>
 
 <img src="https://media.licdn.com/dms/image/D4D16AQFruxbLjdQHmw/profile-displaybackgroundimage-shrink_350_1400/0/1667678634976?e=1678320000&v=beta&t=e9qJygaI35vq_Q3OzNMl4LLeOnevnm4KEMMe0KrzuMM" alt="My game">
 
