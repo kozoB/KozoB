@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bar Kozlovski</h1>
 <h3 align="center">M.Sc. Computer science student with expertise in Deep Learning (python). Also Developing games with Unity on free time (c#)</h3>
 
-<img src="https://media.licdn.com/dms/image/D4D16AQFruxbLjdQHmw/profile-displaybackgroundimage-shrink_350_1400/0/1667678634976?e=1678320000&v=beta&t=e9qJygaI35vq_Q3OzNMl4LLeOnevnm4KEMMe0KrzuMM" alt="My game">
-
-- 🌱 I’m currently learning Deep Learning **Numpy, Tenserflow (Keras), Pandas ,sickit-learn**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bar-kozlovski-559a46226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bar kozlovski" height="30" width="40" /></a>
