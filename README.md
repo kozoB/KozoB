@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bar Kozlovski</h1>
-<h3 align="center">Previously Automation Engineer in python.
-  Currently Real Time Software Engineer in C++.
-  M.Sc. Computer science student with expertise in Deep Learning (python).
-  Also Developing games with Unity and Godot on free time (c#)</h3>
+<h3 align="center">Previously Automation Engineer in Python<br>
+  Currently Real Time Software Engineer in C++<br>
+  M.Sc. Computer science student with expertise in Deep Learning (Python)<br>
+  Also Developing games with Unity and Godot on free time (C#)<br></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
